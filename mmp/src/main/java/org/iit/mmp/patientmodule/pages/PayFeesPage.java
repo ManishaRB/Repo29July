@@ -38,6 +38,8 @@ public class PayFeesPage {
 	 * 
 	 * }
 	 */
+	
+	
 	public void selectPayment(String amount) {
 		Select payment = new Select(driver.findElement(payAmount));
 		payment.selectByVisibleText(amount);
