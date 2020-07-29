@@ -8,7 +8,7 @@ import org.iit.util.TestBase;
 import org.testng.Assert;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
-
+//Explained in the class
 public class ScheduleAppointmentTest extends TestBase 
 {
 HelperClass helper;
